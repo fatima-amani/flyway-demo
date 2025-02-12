@@ -1,0 +1,1 @@
+ALTER TABLE Employee ADD COLUMN project_id INTEGER REFERENCES Project(id);

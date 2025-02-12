@@ -1,3 +1,1 @@
-ALTER TABLE employee(
-    ADD address VARCHAR(255)
-);
+ALTER TABLE employee ADD address VARCHAR(255);

@@ -1,0 +1,1 @@
+ALTER TABLE Skill RENAME TO Skill;

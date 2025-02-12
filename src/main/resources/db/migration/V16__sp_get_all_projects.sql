@@ -1,0 +1,6 @@
+DELIMITER //
+CREATE PROCEDURE GetAllProjects()
+BEGIN
+    SELECT * FROM Project;
+END //
+DELIMITER ;

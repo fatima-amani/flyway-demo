@@ -1,3 +1,1 @@
-ALTER TABLE Skill(
-    ADD technologies VARCHAR(255)
-);
+ALTER TABLE Skill ADD technologies VARCHAR(255);
