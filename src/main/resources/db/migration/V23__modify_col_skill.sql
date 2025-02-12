@@ -1,0 +1,1 @@
+ALTER TABLE Skill MODIFY COLUMN description VARCHAR(500);

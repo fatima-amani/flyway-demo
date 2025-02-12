@@ -1,0 +1,1 @@
+ALTER TABLE Employee RENAME TO Employee;
