@@ -1,0 +1,3 @@
+ALTER TABLE employee(
+    ADD address VARCHAR(255)
+);
